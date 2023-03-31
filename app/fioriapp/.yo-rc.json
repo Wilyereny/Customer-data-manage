@@ -1,0 +1,8 @@
+{
+  "generator-anubhav-basicfiori": {
+    "projectName": "fioriapp",
+    "newDir": true,
+    "projectNamespace": "wilye",
+    "projectNamespaceModule": "wilye"
+  }
+}
